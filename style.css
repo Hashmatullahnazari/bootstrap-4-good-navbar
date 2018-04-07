@@ -1,0 +1,63 @@
+
+
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+.navbar {
+    background-color: red!important;
+    
+}
+
+.navbar .navbar-header {
+
+}
+.navbar .navbar-toggle {
+    background: white;
+}
+.navbar .sr-only {
+}
+.navbar .icon-bar {
+    background: #000;
+}
+.navbar .navbar-brand {
+    color: white;
+    font-size: 25px;
+}
+
+
+
+.navbar .collapse .nav a {
+    color: white;
+}
+
+.navbar ul li a:hover
+{
+    background: coral;
+}
+ 
+.navbar .dropdown-toggle {
+    background-color: red!important;
+}
+.navbar .caret {
+    color: black;
+}
+.navbar .dropdown-menu {
+    background: red;
+}
+.navbar .dropdown-menu li {
+    
+}
+
+.navbar .dropdown-menu a {
+    color: white;
+    
+}
+
+.navbar .dropdown-menu a:hover {
+    background: coral;
+    
+}
