@@ -43,3 +43,17 @@
 .navbar .navbar-toggle .icon-bar {
 	background-color: black;
 }
+
+.navbar .dropdown-menu {
+    background: linear-gradient(to right, white, yellow);
+}
+
+.navbar .dropdown-menu a {
+    color: #000;
+    
+}
+
+.navbar .dropdown-menu a:hover {
+    background: #9ACD32;
+    
+}
